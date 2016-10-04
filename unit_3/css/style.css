@@ -1,0 +1,23 @@
+body {
+  text-align: center;
+  background: url("images/picture_of_vacation.jpg");
+  background-size: cover;
+  color: red;
+  font-family: Helvetica;
+}
+}
+h1 {
+	color: #7F0000;
+}
+
+#slogan {
+	width: 100%
+	max-width: 960px
+	font: Helvetica;
+	font-style: italic;
+	color: orange;
+	text-align: center;
+}
+img {
+	width: 100%
+}
